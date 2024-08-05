@@ -6,7 +6,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="blank">
+  <a href="https://www.linkedin.com/in/pankaj-kumar00000007" target="blank">
     <img alt="Ashit LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/asitkr" target="blank">
