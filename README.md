@@ -33,9 +33,9 @@
 #### Profile Visit :heart:
 ![VisitorCount](https://profile-counter.glitch.me/asitkr/count.svg)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently working **AngularJs**
 
-- 📫 How to reach me **aashitkumarsinha@gmail.com**
+- 📫 How to reach me **singhpankaj5756@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
