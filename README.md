@@ -31,7 +31,7 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 #### Profile Visit :heart:
-![VisitorCount](https://profile-counter.glitch.me/asitkr/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/pankajkumar5756/count.svg)
 
 - 🌱 I’m currently working **AngularJs**
 
