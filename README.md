@@ -1,7 +1,7 @@
 
 <p align="center"> 
 <!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Ashit+Kumar+Sinha!" alt="Typing SVG" /
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Pankaj+Singh!" alt="Typing SVG" /
 </p>
 
 <h3 align="center">Connect with me:</h3>
