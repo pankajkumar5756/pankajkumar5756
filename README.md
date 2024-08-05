@@ -9,10 +9,10 @@
   <a href="https://www.linkedin.com/in/pankaj-kumar00000007" target="blank">
     <img alt="Ashit LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://github.com/asitkr" target="blank">
-    <img alt="Ashit Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/pankajkumar5756" target="blank">
+    <img alt="github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://www.instagram.com/aashitkrsina/" target="blank">
+  <a href="" target="blank">
     <img alt="Ashit Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://leetcode.com/aashitkumarsinha/" target="blank">
