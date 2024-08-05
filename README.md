@@ -15,7 +15,7 @@
   <a href="" target="blank">
     <img alt="Ashit Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://leetcode.com/aashitkumarsinha/" target="blank">
+  <a href="https://leetcode.com/u/jBGL27YVuv/" target="blank">
     <img alt="Ashit Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
 </p>
