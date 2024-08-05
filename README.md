@@ -64,12 +64,12 @@
 ### :fire: My Stats :
 
 
-<a href="https://github.com/asitkr"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight" /></a>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight" alt="asitkr" />
+<a href="https://github.com/pankajkumar5756"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumar5756&layout=compact&theme=tokyonight" /></a>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkumar5756&theme=tokyonight" alt="asitkr" />
 <br/>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=asitkr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=pankajkumar5756&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
