@@ -33,7 +33,7 @@
 #### Profile Visit :heart:
 ![VisitorCount](https://profile-counter.glitch.me/pankajkumar5756/count.svg)
 
-- 🌱 I’m currently working **Angular**
+- 🌱 I’m currently working **Angular + Java**
 
 - 📫 How to reach me **singhpankaj5756@gmail.com**
 
